@@ -7,9 +7,9 @@ title                    : "Sheikh Samit Muhaimin"
 title_separator          : "-"
 name                     : &name "Sheikh Samit Muhaimin"
 description              : &description "PhD Candidate at the University of Notre Dame researching LLM security, robustness, and privacy-preserving machine learning."
-url                      : https://samitmuhaimin.github.io
+url                      : https://muhaiminsk.github.io
 baseurl                  : ""
-repository               : "muhaiminsk/samitmuhaimin.github.io"
+repository               : "muhaiminsk/muhaiminsk.github.io"
 
 # ============================
 # Author Profile (Sidebar)
